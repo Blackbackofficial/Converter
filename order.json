@@ -1,0 +1,180 @@
+{
+  "id": "298062",
+  "created_at": "2020-09-03 11:49:48",
+  "customer": {
+    "id": "7812",
+    "email": "79000000000@briskly.online",
+    "external_id": "",
+    "first_name": "",
+    "inn": "",
+    "last_name": "",
+    "middle_name": "",
+    "phone": "+79000000000"
+  },
+  "external_id": "",
+  "items": [
+    {
+      "id": "357469",
+      "amount": 127,
+      "external_id": "",
+      "item": {
+        "id": "518300",
+        "barcode": "2109970000015",
+        "external_article": "09970",
+        "external_code": "6274",
+        "external_id": "8947ed95-cda0-470a-8e0e-b3aca91a3e51",
+        "name": "\u041a\u0440\u0435\u043c-\u0431\u043e\u0440\u0449 \u0432\u0435\u0433\u0435\u0442\u0430\u0440\u0438\u0430\u043d\u0441\u043a\u0438\u0439",
+        "type": "",
+        "unit_id": 796,
+        "vat_rate": 0
+      },
+      "item_extra_code": "",
+      "item_extra_code_type": 0,
+      "price": 127,
+      "quantity": 1,
+      "volume": 0,
+      "weight": 0
+    },
+    {
+      "id": "357470",
+      "amount": 135,
+      "external_id": "",
+      "item": {
+        "id": "518312",
+        "barcode": "2154231000019",
+        "external_article": "54231",
+        "external_code": "6273",
+        "external_id": "40f5a632-075a-42f3-ba7e-1b7ab112f458",
+        "name": "\u041e\u043a\u0440\u043e\u0448\u043a\u0430 \u043d\u0430 \u043a\u0432\u0430\u0441\u0435",
+        "type": "",
+        "unit_id": 796,
+        "vat_rate": 0
+      },
+      "item_extra_code": "",
+      "item_extra_code_type": 0,
+      "price": 135,
+      "quantity": 1,
+      "volume": 0,
+      "weight": 0
+    },
+    {
+      "id": "357471",
+      "amount": 151,
+      "external_id": "",
+      "item": {
+        "id": "517889",
+        "barcode": "2109991000018",
+        "external_article": "09991",
+        "external_code": "6255",
+        "external_id": "0d85209d-c5ae-4b72-a523-3e76910c7fd2",
+        "name": "\u041e\u043b\u0438\u0432\u044c\u0435 \u0441 \u043a\u0443\u0440\u043e\u0439",
+        "type": "",
+        "unit_id": 796,
+        "vat_rate": 0
+      },
+      "item_extra_code": "",
+      "item_extra_code_type": 0,
+      "price": 151,
+      "quantity": 1,
+      "volume": 0,
+      "weight": 0
+    },
+    {
+      "id": "357473",
+      "amount": 151,
+      "external_id": "",
+      "item": {
+        "id": "134702",
+        "barcode": "2151212000017",
+        "external_article": "51212",
+        "external_code": "2843",
+        "external_id": "8b083b19-f6a5-4059-0164-b446b8a507e2",
+        "name": "\u0420\u0438\u0441 \u0441 \u043a\u0443\u0440\u0438\u0446\u0435\u0439 \u0432 \u043a\u0438\u0441\u043b\u043e-\u0441\u043b\u0430\u0434\u043a\u043e\u043c \u0441\u043e\u0443\u0441\u0435",
+        "type": "",
+        "unit_id": 796,
+        "vat_rate": 0
+      },
+      "item_extra_code": "",
+      "item_extra_code_type": 0,
+      "price": 151,
+      "quantity": 1,
+      "volume": 0,
+      "weight": 0
+    },
+    {
+      "id": "357477",
+      "amount": 183,
+      "external_id": "",
+      "item": {
+        "id": "518095",
+        "barcode": "2109980000012",
+        "external_article": "09980",
+        "external_code": "6260",
+        "external_id": "f0d2b120-dd89-40e5-8114-212eff717d8c",
+        "name": "\u0411\u0435\u0444\u0441\u0442\u0440\u043e\u0433\u0430\u043d\u043e\u0432 \u0441 \u0436\u0430\u0440\u0435\u043d\u044b\u043c \u043a\u0430\u0440\u0442\u043e\u0444\u0435\u043b\u0435\u043c \u0438 \u0433\u0440\u0438\u0431\u0430\u043c\u0438",
+        "type": "",
+        "unit_id": 796,
+        "vat_rate": 0
+      },
+      "item_extra_code": "",
+      "item_extra_code_type": 0,
+      "price": 183,
+      "quantity": 1,
+      "volume": 0,
+      "weight": 0
+    },
+    {
+      "id": "357478",
+      "amount": 95,
+      "external_id": "",
+      "item": {
+        "id": "134652",
+        "barcode": "2151246000014",
+        "external_article": "51246",
+        "external_code": "2878",
+        "external_id": "8b083b19-f6a5-4059-0164-b446b8a50804",
+        "name": "SWEETBOX \u0447\u0438\u0430-\u043c\u0430\u043d\u0433\u043e",
+        "type": "",
+        "unit_id": 796,
+        "vat_rate": 0
+      },
+      "item_extra_code": "",
+      "item_extra_code_type": 0,
+      "price": 95,
+      "quantity": 1,
+      "volume": 0,
+      "weight": 0
+    }
+  ],
+  "parent_id": "0",
+  "pay_status": "paid",
+  "payment": {
+    "id": "",
+    "executed_at": "2020-09-03 11:51:53",
+    "receipt": {
+      "id": "7f7ca7ac-259e-47bb-996e-31bcb7edb8ab",
+      "link": ""
+    }
+  },
+  "ready_status": "",
+  "status": "paid",
+  "store": {
+    "id": "363",
+    "address": "\u0418\u0442\u0430\u043b\u044c\u044f\u043d\u0441\u043a\u0430\u044f 17",
+    "column_external_id": "",
+    "column_id": "",
+    "external_id": "0f717c67-9bdc-4664-abec-dab2696c454b",
+    "name": "MEGA STORE",
+    "nozzle_external_id": "",
+    "nozzle_id": "",
+    "table_external_id": "",
+    "table_id": "",
+    "zone_external_id": "",
+    "zone_id": "",
+    "zone_row": "",
+    "zone_seat": ""
+  },
+  "total_amount": 842,
+  "type": "",
+  "updated_at": "2020-09-03 11:55:03"
+}

@@ -8,7 +8,7 @@ https://github.com/PHPOffice/PhpSpreadsheet
 1 . Clone repository
 
 ```
-git clone git@github.com:antonshell/php_xlsx_to_json.git
+git clone https://github.com/Blackblackofficial/Converter
 ```
 
 2 . Install dependencies
@@ -19,15 +19,26 @@ composer install
 
 # Usage
 
-1 . Set filenames in ```convert.php```
+1 . Set filenames in ```convert.php or test.php```
 
+``` To Json
+$inputFileName = './order.xlsx';
+$outputFileName = './data/items.json';
 ```
-$inputFileName = './demo.xlsx';
-$outputFileName = './data/demo.json';
+``` To Xlsx
+$inputFileName = './order.json';
+$outputFileName = './items.xlsx';
 ```
 
 2 . Convert to json
 
 ```
 php convert.php
+```# Converter
+```
+
+3 . Convert to Xlsx
+
+```
+php test.php or export.php
 ```# Converter

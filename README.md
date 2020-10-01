@@ -1,6 +1,6 @@
-# Xlsx to json converter
+# Xlsx to Json and Json to Xlsx converter
 
-Made with php, and PhpSpreadsheet
+Made with php, and PhpSpreadsheet(PHPExcel)
 https://github.com/PHPOffice/PhpSpreadsheet
 
 # Install

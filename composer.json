@@ -1,6 +1,6 @@
 {
     "require": {
-        "phpoffice/phpspreadsheet": "^1.14",
+        "phpoffice/phpspreadsheet": "^1.14.1",
         "php": "^5.6|^7.0",
         "ext-ctype": "*",
         "ext-dom": "*",
@@ -15,7 +15,8 @@
         "ext-zip": "*",
         "ext-zlib": "*",
         "psr/simple-cache": "^1.0",
-        "ext-json": "*"
+        "ext-json": "*",
+        "ext-ftp": "*"
     },
     "require-dev": {
         "tecnickcom/tcpdf": "^6.2",
